@@ -6,3 +6,8 @@
 * [DHT11sensorWithMQTT_Ver0.2.ino](https://github.com/leehaesung/PySerialForIoTSensor/blob/master/DHT11sensorWithMQTT_Ver0.2.ino)
 
 ![ESP8266_DHT11.jpg](https://github.com/leehaesung/NodeRED/blob/master/02_CodeFiles/10_ESP8266-01/01_Images/ESP8266_DHT11.jpg)
+
+![ESP8266_DHT11_Basic.jpg](https://github.com/leehaesung/NodeRED/blob/master/02_CodeFiles/10_ESP8266-01/01_Images/ESP8266_DHT11_Basic.jpg)
+
+![ESP8266_DHT11_BreadBoard.jpg](https://github.com/leehaesung/NodeRED/blob/master/02_CodeFiles/10_ESP8266-01/01_Images/ESP8266_DHT11_BreadBoard.jpg)
+
